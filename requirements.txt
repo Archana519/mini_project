@@ -1,0 +1,15 @@
+torch>=2.1
+torchvision>=0.16
+transformers>=4.38
+segmentation-models-pytorch>=0.3.3
+timm>=0.9.12
+opencv-python
+numpy
+scikit-learn
+tqdm
+pandas
+matplotlib
+tabulate
+networkx
+scikit-image
+scipy

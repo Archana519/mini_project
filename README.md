@@ -1,0 +1,1 @@
+See ../EXECUTION_GUIDE.md (Part A) for the step-by-step run order: A0 setup -> A1 test_shapes.py -> A2 estimate_time.py -> A3 import_original.py -> A4 run_experiments.py --dry_run -> A5 --group fast -> A6 --group dino -> A7 aggregate_results.py
